@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>phaseOne_moduleOne_homeWork</module>
+        <module>phaseOne_moduleTwo_homeWork</module>
     </modules>
     <dependencies>
         <!--hadoop common-->
